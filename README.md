@@ -55,8 +55,6 @@
     [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
     [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
     [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-    [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss&style=for-the-badge)](https://tailwindcss.com/)
-    [![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://reactjs.org/)
 
 <br>
 
