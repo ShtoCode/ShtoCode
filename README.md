@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hola!, Me llamo Germán Astudillo</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=2000&random=false&width=435&lines=%C2%A1Bienvenid%40+a+mi+perfil+de+Github!;Soy+un+desarrollador+fullstack+%3AD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1200&random=false&width=435&lines=!Bienvenid%40+a+mi+perfil+de+Github!%F0%9F%91%BB;Soy+un+desarrollador+fullstack+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Aunque+me+encanta+m%C3%A1s+el+Back+End+%F0%9F%A7%9B%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F;Estoy+constantemente+aprendiendo+%F0%9F%A7%A0" alt="Typing SVG" /></a>
 
 </p>
 
